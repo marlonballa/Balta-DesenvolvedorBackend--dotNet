@@ -1,0 +1,15 @@
+C:\Users\marlo\OneDrive\Documentos\Programação\Balta - Desenvolvedor BackEnd dotNet\fundamentosDoC#\FirstApplication\bin\Debug\net6.0\FirstApplication.exe
+C:\Users\marlo\OneDrive\Documentos\Programação\Balta - Desenvolvedor BackEnd dotNet\fundamentosDoC#\FirstApplication\bin\Debug\net6.0\FirstApplication.deps.json
+C:\Users\marlo\OneDrive\Documentos\Programação\Balta - Desenvolvedor BackEnd dotNet\fundamentosDoC#\FirstApplication\bin\Debug\net6.0\FirstApplication.runtimeconfig.json
+C:\Users\marlo\OneDrive\Documentos\Programação\Balta - Desenvolvedor BackEnd dotNet\fundamentosDoC#\FirstApplication\bin\Debug\net6.0\FirstApplication.dll
+C:\Users\marlo\OneDrive\Documentos\Programação\Balta - Desenvolvedor BackEnd dotNet\fundamentosDoC#\FirstApplication\bin\Debug\net6.0\FirstApplication.pdb
+C:\Users\marlo\OneDrive\Documentos\Programação\Balta - Desenvolvedor BackEnd dotNet\fundamentosDoC#\FirstApplication\obj\Debug\net6.0\FirstApplication.csproj.AssemblyReference.cache
+C:\Users\marlo\OneDrive\Documentos\Programação\Balta - Desenvolvedor BackEnd dotNet\fundamentosDoC#\FirstApplication\obj\Debug\net6.0\FirstApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\OneDrive\Documentos\Programação\Balta - Desenvolvedor BackEnd dotNet\fundamentosDoC#\FirstApplication\obj\Debug\net6.0\FirstApplication.AssemblyInfoInputs.cache
+C:\Users\marlo\OneDrive\Documentos\Programação\Balta - Desenvolvedor BackEnd dotNet\fundamentosDoC#\FirstApplication\obj\Debug\net6.0\FirstApplication.AssemblyInfo.cs
+C:\Users\marlo\OneDrive\Documentos\Programação\Balta - Desenvolvedor BackEnd dotNet\fundamentosDoC#\FirstApplication\obj\Debug\net6.0\FirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\marlo\OneDrive\Documentos\Programação\Balta - Desenvolvedor BackEnd dotNet\fundamentosDoC#\FirstApplication\obj\Debug\net6.0\FirstApplication.dll
+C:\Users\marlo\OneDrive\Documentos\Programação\Balta - Desenvolvedor BackEnd dotNet\fundamentosDoC#\FirstApplication\obj\Debug\net6.0\refint\FirstApplication.dll
+C:\Users\marlo\OneDrive\Documentos\Programação\Balta - Desenvolvedor BackEnd dotNet\fundamentosDoC#\FirstApplication\obj\Debug\net6.0\FirstApplication.pdb
+C:\Users\marlo\OneDrive\Documentos\Programação\Balta - Desenvolvedor BackEnd dotNet\fundamentosDoC#\FirstApplication\obj\Debug\net6.0\FirstApplication.genruntimeconfig.cache
+C:\Users\marlo\OneDrive\Documentos\Programação\Balta - Desenvolvedor BackEnd dotNet\fundamentosDoC#\FirstApplication\obj\Debug\net6.0\ref\FirstApplication.dll

@@ -1,0 +1,10 @@
+Para criar um novo arquivo:
+- escolha a pasta onde os arquivos deverão ficar. 
+- dotnet new -tipo- -o -pasta- 
+  dotnet new console -O NameApplication
+
+Fluxo da Aplicação:
+  - dotnet restore (para garantir que todas as dependências estão instaladas)
+  - dotnet clean (para limpar o cache)
+  - dotnet build (para compilar)
+  - dotnet run (para executar a aplicação)
